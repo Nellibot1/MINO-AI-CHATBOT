@@ -4,6 +4,10 @@
 
 MINO is an AI-powered chatbot developed for the Audiovisual Media (AM) department at Hochschule der Medien (HdM) Stuttgart. It simplifies student life by centralizing study-related information and answering questions in real time.
 
+
+<img width="1109" height="623" alt="Image" src="https://github.com/user-attachments/assets/f4ccc882-9b6a-464f-9596-62912570504f" />
+
+
 **What is MINO?**
 Students often spend a lot of time searching across multiple platforms for information about their studies. MINO brings everything together in one place a conversational interface that understands your questions and responds instantly, with sources included.
 
