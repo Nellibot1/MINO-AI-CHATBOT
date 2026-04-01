@@ -20,11 +20,14 @@ Students often spend a lot of time searching across multiple platforms for infor
 
 MINO scrapes the **AM homepage**, **SPlan** and **SPO** daily to keep its knowledge up to date. User queries are matched semantically against this data before being passed to the LLM.
 
-```
 
 # TEAM
 
 - Felix Bozzai
 - Janniella Heimig
 - Elias Kreidler
+
+[Project](https://hdm-stuttgart.de/mediathek/projectpage/4513/details)
+
+
 
