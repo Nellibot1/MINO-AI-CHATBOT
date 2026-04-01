@@ -6,14 +6,27 @@ MINO is an AI-powered chatbot developed for the Audiovisual Media (AM) departmen
 
 **What is MINO?**
 Students often spend a lot of time searching across multiple platforms for information about their studies. MINO brings everything together in one place a conversational interface that understands your questions and responds instantly, with sources included.
-Key Features
 
-- Simplified access to study information, no more searching across multiple websites
-- Real-time Q&Aanswers questions about schedules, modules, and exam regulations on the spot
-- Source citations every answer includes a reference to the original source
-- Web-based accessible directly in your browser, no installation required
+# ✨ Features
 
-Team
-NameRoleElias Kreidler Fullstack Development
-Janniella Heimig 
-Felix Bozzai 
+- 💬 **Conversational Interface**  Natural language Q&A about your studies
+- ⚡ **Real-Time Answers**  Instant responses on schedules, modules & exam regulations
+- 🔗 **Source Citations**  Every answer links back to its original source
+- 🌐 **Web-Based** No installation needed, runs directly in your browser
+
+---
+
+## 🏗️ Architecture
+
+MINO scrapes the **AM homepage**, **SPlan** and **SPO** daily to keep its knowledge up to date. User queries are matched semantically against this data before being passed to the LLM.
+
+```
+
+## 📬 Contact
+
+| Name | 
+|---|---|
+| Felix Bozzai | 
+| Janniella Heimig | 
+| Elias Kreidler | 
+---
