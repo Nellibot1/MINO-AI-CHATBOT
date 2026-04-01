@@ -22,11 +22,9 @@ MINO scrapes the **AM homepage**, **SPlan** and **SPO** daily to keep its knowle
 
 ```
 
-## 📬 Contact
+# TEAM
 
-| Name | 
-|---|---|
-| Felix Bozzai | 
-| Janniella Heimig | 
-| Elias Kreidler | 
----
+- Felix Bozzai
+- Janniella Heimig
+- Elias Kreidler
+
