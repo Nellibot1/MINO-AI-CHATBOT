@@ -27,7 +27,7 @@ MINO scrapes the **AM homepage**, **SPlan** and **SPO** daily to keep its knowle
 - Janniella Heimig
 - Elias Kreidler
 
-[Project](https://hdm-stuttgart.de/mediathek/projectpage/4513/details)
+[Project Link](https://hdm-stuttgart.de/mediathek/projectpage/4513/details)
 
 
 
